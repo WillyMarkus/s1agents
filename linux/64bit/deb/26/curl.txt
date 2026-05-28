@@ -1,0 +1,1 @@
+curl -O https://raw.githubusercontent.com/WillyMarkus/s1agents/refs/heads/main/linux/64bit/deb/26/SentinelAgent_linux_x86_64_v26_1_1_31.deb
